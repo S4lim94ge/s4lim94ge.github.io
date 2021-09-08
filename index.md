@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to the7error Pages
 
 You can use the [editor on GitHub](https://github.com/S4lim94ge/the7error.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -9,7 +9,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Welcome to The7Error WebPage
+Welcome to the7error Web-pages
+
+the7error@0x:# cat /etc/knowledge
+ https://s4lim94ge.github.io/
 
 ```
 
